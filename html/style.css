@@ -668,3 +668,8 @@ button {
 .contain {
   object-fit: contain;
 }
+
+.warning {
+  background-color: rgba(236, 176, 11, 0.85);
+  color: #333333;
+}
